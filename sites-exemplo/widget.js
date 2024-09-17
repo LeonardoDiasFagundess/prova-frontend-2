@@ -18,13 +18,13 @@ cor.style.color="white";
 cor.style.padding="10px";
 cor.style.position=" relative";
 cor.style.bottom="42px";
-cor.style.left="1330px"
+cor.style.left="1714px";
 
 document.getElementById("estilo").onclick = function() {
     document.getElementById("estilo").innerHTML = "<b>Listas de Pessoas";
     document.getElementById("estilo").style.width="300px"
     document.getElementById("estilo").style.height="500px"
-    document.getElementById("estilo").style.left="1180px"
+    document.getElementById("estilo").style.left="1564px";
      document.getElementById("estilo").style.bottom="500px"
 };
 
